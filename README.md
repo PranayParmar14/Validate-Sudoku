@@ -1,5 +1,4 @@
 The Sudoku Validator Program is a Java application designed to verify whether a given 9x9 Sudoku board follows the correct game rules. The program performs three levels of validation:
-
 	1.	Row Validation – Ensures that each row contains unique numbers from 1 to 9 with no duplicates.
 	2.	Column Validation – Checks that each column contains distinct numbers and does not exceed the allowed range.
 	3.	3x3 Subgrid Validation – Confirms that each 3x3 section does not contain repeated numbers.
